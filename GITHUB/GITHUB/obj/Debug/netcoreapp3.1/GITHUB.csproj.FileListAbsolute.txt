@@ -1,0 +1,11 @@
+C:\Users\Laptop\source\repos\GITHUB\GITHUB\bin\Debug\netcoreapp3.1\GITHUB.exe
+C:\Users\Laptop\source\repos\GITHUB\GITHUB\bin\Debug\netcoreapp3.1\GITHUB.deps.json
+C:\Users\Laptop\source\repos\GITHUB\GITHUB\bin\Debug\netcoreapp3.1\GITHUB.runtimeconfig.json
+C:\Users\Laptop\source\repos\GITHUB\GITHUB\bin\Debug\netcoreapp3.1\GITHUB.runtimeconfig.dev.json
+C:\Users\Laptop\source\repos\GITHUB\GITHUB\bin\Debug\netcoreapp3.1\GITHUB.dll
+C:\Users\Laptop\source\repos\GITHUB\GITHUB\bin\Debug\netcoreapp3.1\GITHUB.pdb
+C:\Users\Laptop\source\repos\GITHUB\GITHUB\obj\Debug\netcoreapp3.1\GITHUB.csprojAssemblyReference.cache
+C:\Users\Laptop\source\repos\GITHUB\GITHUB\obj\Debug\netcoreapp3.1\GITHUB.AssemblyInfoInputs.cache
+C:\Users\Laptop\source\repos\GITHUB\GITHUB\obj\Debug\netcoreapp3.1\GITHUB.AssemblyInfo.cs
+C:\Users\Laptop\source\repos\GITHUB\GITHUB\obj\Debug\netcoreapp3.1\GITHUB.dll
+C:\Users\Laptop\source\repos\GITHUB\GITHUB\obj\Debug\netcoreapp3.1\GITHUB.pdb
