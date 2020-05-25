@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Laptop\\.nuget\\packages\\": {}
+    "C:\\Users\\KOMPUTER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Laptop\\source\\repos\\GITHUB\\GITHUB\\GITHUB.csproj",
+      "projectUniqueName": "C:\\Users\\KOMPUTER\\Desktop\\Programowanko\\GITHUB\\GITHUB\\GITHUB.csproj",
       "projectName": "GITHUB",
-      "projectPath": "C:\\Users\\Laptop\\source\\repos\\GITHUB\\GITHUB\\GITHUB.csproj",
-      "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Laptop\\source\\repos\\GITHUB\\GITHUB\\obj\\",
+      "projectPath": "C:\\Users\\KOMPUTER\\Desktop\\Programowanko\\GITHUB\\GITHUB\\GITHUB.csproj",
+      "packagesPath": "C:\\Users\\KOMPUTER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\KOMPUTER\\Desktop\\Programowanko\\GITHUB\\GITHUB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\KOMPUTER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,12 +53,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
